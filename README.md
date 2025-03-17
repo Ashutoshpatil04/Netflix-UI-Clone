@@ -13,17 +13,14 @@ A responsive **Netflix UI Clone** built using HTML, CSS, and JavaScript to repli
 - **HTML5** - Structuring the webpage
 - **CSS3** - Styling and animations
 
-## 📸 Screenshots
-![Netflix Clone Screenshot](./screenshot.png) *(Add a screenshot of your project here)*
+## 🎬 Live Demo
+🔗 [Live Demo](https://clonenet101.netlify.app/) 
 
 ## 📂 Folder Structure
 ```
 Netflix-UI-Clone/ ├── images/ │ ├── netflixlogo.png │ ├── netflix-title.png │ ├── facebook.png │ ├── instagram-icon.png │ ├── twitter.png │ ├── youtube.png │ ├── c1.png │ ├── c2.png │ ├── c3.png │ ├── c4.png │ ├── c5.png │ ├── c6.png │ └── bannerimg.jpg ├── fonts/ │ ├── NetflixSans-Regular.woff2 │ ├── NetflixSans-Regular.woff │ ├── NetflixSans-Bold.woff2 │ └── NetflixSans-Bold.woff ├── netflix.html └── netflix.css
 
 
-
-## 🎬 Live Demo
-🔗 [Live Demo](https://clonenet101.netlify.app/) 
 
 ## 📦 Installation & Usage
 1. **Clone the repository**:
@@ -46,5 +43,5 @@ This project is for educational purposes only. All rights to the original Netfli
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/Ashutoshpatil04)
+Made with ❤️ by [Ashutosh Patil](https://github.com/Ashutoshpatil04)
 
