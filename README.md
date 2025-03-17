@@ -23,7 +23,7 @@ Netflix-UI-Clone/ ├── images/ │ ├── netflixlogo.png │ ├── 
 
 
 ## 🎬 Live Demo
-🔗 [Live Demo](https://your-live-demo-link.com) 
+🔗 [Live Demo](https://clonenet101.netlify.app/) 
 
 ## 📦 Installation & Usage
 1. **Clone the repository**:
